@@ -1,8 +1,9 @@
 CSCI 1310
-Lecture 1
-Introduction
---------------------
+----------
 
+Lecture 1: Introduction
+
+--------------------
 Enrollment key : csci1310
 ---------------------------
 
