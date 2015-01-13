@@ -4,8 +4,8 @@ Lecture 1: Introduction
 --------------------
 
 
-Enrollment key : csci1310
-David Graham : david.malcom.graham@gmail.com
+* Enrollment key : csci1310
+* David Graham : david.malcom.graham@gmail.com
 
 
 Distributions
