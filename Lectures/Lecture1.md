@@ -5,6 +5,7 @@ Lecture 1: Introduction
 
 
 Enrollment key : csci1310
+David Graham : david.malcom.graham@gmail.com
 
 
 Distributions
@@ -22,3 +23,4 @@ Books
 ----------------------------------------------------------------
 *  Downey: Think Python: How to Think like a computer scientist
 *  Savitch: Problem solving with C++
+
