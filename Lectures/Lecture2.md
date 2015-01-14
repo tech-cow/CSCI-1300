@@ -23,9 +23,9 @@ What is a computer?
 
 	- **Decimal** : 42  
 		- How PC runs it : (1*2)+(10*4)= 2 + 40 = 42
-	- *8Binary** : 101010
+	- **Binary** : 101010
 		- how PC runs it : (1*2) + (1*8) + (1*32) = 2 + 8 + 32 = 42
-	- **Hexadecimal*8 : 0x
+	- **Hexadecimal** : 0x
 		- find out how to find 42 in Hex.
 
 	- why using Binary?
