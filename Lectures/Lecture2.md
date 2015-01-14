@@ -1,9 +1,10 @@
-Lecutre 2: Groundwork
-------------------------
+Lecture 2: Groundwork Lecture 2: Groundwork
+------------------------------------------
+
 
 What is a computer?
 -------------------
-* Storage : the file system is permanent storage for programs and data (Incrediblely slow)
+* Storage : the file system is permanent storage for programs and data (Incredibly slow)
 
 * I/O : input -> process -> output
 	- keyboard
@@ -15,7 +16,7 @@ What is a computer?
 	- Each data type requires different memory
 
 
-* CPU : Executae machine codes (source code -> compiler -> machine code)
+* CPU : Execute machine codes (source code -> compiler -> machine code)
 
  Counting
  -----------
@@ -36,17 +37,18 @@ Jokes
 
 Terminology
 -------------
-* program
-	- writting source code in text form
+* Program
+	- writing source code in text form
 
-* difference syntax , same sematics : different Programming language 
+* Difference syntax , same semantics : different Programming language 
 
-* syntax
+* Syntax
 	- the rules of language
-* semantics
+* Semantics
 	- what does the program supposed to do , meaning (on top of syntax)
 * Syntax errors 
-	- vilading the rule of a langauge
+	- violating the rule of a language
+
 
 
 
