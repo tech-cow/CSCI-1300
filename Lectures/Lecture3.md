@@ -39,9 +39,15 @@ Mixture
 In weakly typed language, one type of coorprate with another (ex: Javascript)
 Reasons there are different rules in language is because languages are design to suit different purpose. Python
 is often used in server, and it's need to be ruled carefully.
+* In python, to make types coorprate, we use **casting**
 
 ```python
 
+x = 12
+a = "hello"
+b = "world"
+
+print(str(x) + a)
 
 ```
 
