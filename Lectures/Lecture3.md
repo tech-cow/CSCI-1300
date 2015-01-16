@@ -10,7 +10,7 @@ Python Practice
 x = 12  
 
 // python perform the right hand side first, then assign it to x on the left hand side
-x = x + 23 // same as x += 23
+x = x + 23 // same as "x += 23"
 
 
 
