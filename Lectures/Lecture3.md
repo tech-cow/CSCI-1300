@@ -12,6 +12,8 @@ x = x + 23 || x += 23 // Python perform the right hand side first, then assign i
 
 print (x) 
 
+//35
+
 ```
 String concatenation
 ---------------------
@@ -23,6 +25,8 @@ b = "world"
 
 c = a + b
 
-print(c)
+print(c) 
+
+// hello world
 
 ```
