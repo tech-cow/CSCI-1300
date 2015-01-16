@@ -3,6 +3,8 @@ Lecture 3: Variables, Operators, Data Types
 
 Sum of Numbers
 -----------------
+* binary operator : +, *, / etc
+* unary operator : -(negative) , not(! in python) , ++ etc.
 
 ```python
 
@@ -86,6 +88,16 @@ print(myNumber)
 // lalala
 ```
 
+Array
+-------
+```python
+items = [1 , 2 , 3, 4]
+names = ["ralphie", "chauncey"]
+
+print(items[0]) // prints the index 0 from the array
+
+// 1
+```
 
 
 
