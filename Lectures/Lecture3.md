@@ -15,7 +15,7 @@ print (x)
 //35
 
 ```
-String concatenation
+String Concatenation
 ---------------------
 
 ```python
@@ -30,3 +30,20 @@ print(c)
 // hello world
 
 ```
+
+
+
+Mixture
+----------
+* Python is a strongly typed language (when adding 2 different data types, it throws error)
+In weakly typed language, one type of coorprate with another (ex: Javascript)
+Reasons there are different rules in language is because languages are design to suit different purpose. Python
+is often used in server, and it's need to be ruled carefully.
+
+```python
+
+
+```
+
+
+
