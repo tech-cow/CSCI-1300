@@ -99,6 +99,19 @@ print(items[0]) // prints the index 0 from the array
 // 1
 ```
 
+Practice : Area
+-----------------
+```python
+import math
 
+radius = 10
+pi = math.pi //
+
+area = radius **2 * pi
+circ = 2 * pi * radius
+
+print 'the area is :' , area
+print 'the circumference is' , circ
+```
 
 
