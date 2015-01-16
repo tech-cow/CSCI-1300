@@ -49,6 +49,8 @@ b = "world"
 
 print(str(x) + a)
 
+// "12hello"
+
 ```
 
 Division of Numbers
