@@ -67,4 +67,26 @@ print(x/y)
 
 ```
 
+Static Type vs Dynamic Type
+-------------------------------
+Static type: **C** -always have to initiate a type
+Dynamic type: **Python** , you don't need to initiate a type, the language will figure the type system at runtime.
+
+Dynamic in use
+----------------
+*Assignment are also tested at runtime
+
+```python
+myString = "lalala"
+myNumber = 1
+
+myNumber = myString
+print(myNumber)
+
+// lalala
+```
+
+
+
+
 
