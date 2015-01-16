@@ -19,7 +19,7 @@ What is a computer?
 * **CPU** : Execute machine codes (source code -> compiler -> machine code)
 
  Counting
- -----------
+ ------------
 
 	- **Decimal** : 42  
 		- How PC runs it : (1*2)+(10*4)= 2 + 40 = 42
