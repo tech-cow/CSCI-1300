@@ -51,5 +51,17 @@ print(str(x) + a)
 
 ```
 
+Division of Numbers
+
+```python
+
+x = 1
+y = 3
+print(x/y)
+
+//0
+
+
+```
 
 
