@@ -52,6 +52,7 @@ print(str(x) + a)
 ```
 
 Division of Numbers
+--------------------
 
 ```python
 
