@@ -18,7 +18,6 @@ Distributions
 
 
 
-
 Books
 ----------------------------------------------------------------
 *  Downey: Think Python: How to Think like a computer scientist
