@@ -1,4 +1,4 @@
-Lecture 2: Groundwork Lecture 2: Groundwork
+Lecture 2: Groundwork
 -----------------------------------------
 
 
