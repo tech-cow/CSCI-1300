@@ -1,4 +1,4 @@
-Lecture 3: Variables, Operators, Data Types
+Lecture 3: Variables, Operators, Data Types 
 ----------------------------------------------
 
 Sum of Numbers
