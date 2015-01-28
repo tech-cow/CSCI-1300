@@ -1,3 +1,6 @@
+Simple while loop
+-------------------
+* Number Guessing
 
 ```python
 
@@ -16,4 +19,20 @@ while true:
     print("omg you made it")
     break
 
+```
+
+********************
+
+* Modular Looping
+
+```python
+counter = 0
+while counter < 20:
+    if counter % 3 == 0:
+      print(counter, "Fizz")
+    elif counter % 5 == 0:
+      print(counter, "Buzz")
+    counter += 1
+
+    
 ```
