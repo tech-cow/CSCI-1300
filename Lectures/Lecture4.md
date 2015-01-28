@@ -48,3 +48,23 @@ while counter < 20:
 
     
 ```
+
+********************
+
+* **Searching Algorithm**
+
+```python
+
+animals = ['panda','koala','monkey','leopard']
+
+i = 0
+while i < len(animals): 
+	animal = animals[i]
+	print("is %s a %s" % (animal, 'leopard'))
+	if animal == 'leopard' :
+		break
+	i += 1
+print "index is ", i
+
+
+```
