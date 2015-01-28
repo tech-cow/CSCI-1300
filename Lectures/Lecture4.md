@@ -1,6 +1,6 @@
-Simple while loop
+While Loop
 -------------------
-* Number Guessing
+* **Number Guessing**
 
 ```python
 
@@ -23,7 +23,7 @@ while true:
 
 ********************
 
-* Modular Looping
+* **Modular Looping**
 
 ```python
 counter = 0
