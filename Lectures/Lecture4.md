@@ -23,15 +23,27 @@ while true:
 
 ********************
 
-* **Modular Looping**
+* **FizzBuzz**
 
 ```python
 counter = 0
+zz = ""
+
 while counter < 20:
+	#if counter % 3 == 0 and counter % 5 == 0:
+	#	print("FizzBuzz")
+	#	counter += 1
+	#	continue
+
     if counter % 3 == 0:
-      print(counter, "Fizz")
-    elif counter % 5 == 0:
-      print(counter, "Buzz")
+    	zz = "fizz"
+
+    if counter % 5 == 0:
+      	zz += "buzz"
+
+    if len(zz) > 0 :
+    	print(counter, zz)
+    	zz = ""
     counter += 1
 
     
