@@ -25,4 +25,4 @@ print PasserRating
 # utf-8 from the top comment solves the issue of Non-ASCII character calculation
 # 5 arguments were grab from user
 # C Y T I calculate for necessary entry
-# Then PasserRating calculate the rate
+# Then PasserRating calculate the rate 
