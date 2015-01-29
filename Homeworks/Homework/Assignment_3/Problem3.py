@@ -1,4 +1,6 @@
-
+# Problem 3
+# Yu Zhou
+# TA: Srinjita Bhaduri
 
 seconds = input("Enter the seconds: ")
 
