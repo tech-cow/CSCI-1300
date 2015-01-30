@@ -1,13 +1,8 @@
 
-collection = "The quick brown fox jumped over the lazy dog."
-for item in collection:
-	print(item)
-
-
 
 Mapping
 ----------
-
+```pyhon
 animals = ['panda','fox','dog','kangaroo']
 destination = []
 for animals in animals:
@@ -16,9 +11,11 @@ for animals in animals:
 	print('original',animals)
 	print('mapped',destination)
 	print(len(animals), len(destination))
+```
 
 Accumulator
 -------------
+```python
 number = [1,2,3,4]
 accumulator = 0
 for number in number:
@@ -26,3 +23,4 @@ for number in number:
 
 print('original',number)
 print('sum',accumulator)
+```
