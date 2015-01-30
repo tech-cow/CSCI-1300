@@ -12,10 +12,10 @@ seconds = input("Enter the seconds: ")
 #remain_minutes = 
 #remain_minutes = (seconds / 60) 
 #print int(hours)
-minute = seconds / 60;
-hours = minute / 60
-minute_reminder = minute - hours * 60
-seconds_reminder = seconds % 60
+minute = int(seconds) / 60;
+hours = int(minute / 60)
+minute_reminder = int(minute) - int(hours) * 60
+seconds_reminder = int(seconds) % 60
 
-print "The time is ",hours, " hours,",minute_reminder," minutes,",seconds_reminder," seconds"
+print ("The time is ",hours, " hours,",minute_reminder," minutes,",seconds_reminder," seconds")
 

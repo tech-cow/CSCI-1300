@@ -12,14 +12,17 @@ Touchdowns = input ("Touchdowns!? : ")
 Interceptions = input ("Interceptions: ")
 
 
-
-C = ((Pass_completions / Pass_attempts) - 0.30) * 5
-Y = (Total_passing_yards /Pass_attempts - 3) * 0.25
-T = Touchdowns / Pass_attempts * 20
-I = 2.375 - (Interceptions / Pass_attempts * 25)
+C = (float(Pass_completions) / float(Pass_attempts) - 0.30) * 5
+Y = float(Total_passing_yards) / (float(Pass_attempts) - 3) * 0.25
+T = float(Touchdowns) / float(Pass_attempts) * 20
+I = 2.375 - float(Interceptions) / float(Pass_attempts) * 25
 PasserRating = (C+Y+T+I)/6*100
 
-print PasserRating
+#print (C)
+#print (Y)
+#print (T)
+#print (I)
+print (PasserRating)
 
 #Comment:
 # utf-8 from the top comment solves the issue of Non-ASCII character calculation
