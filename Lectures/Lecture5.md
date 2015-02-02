@@ -24,3 +24,4 @@ for number in number:
 print('original',number)
 print('sum',accumulator)
 ```
+ 
