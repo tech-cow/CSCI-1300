@@ -12,7 +12,7 @@ for animals in animals:
 	print('mapped',destination)
 	print(len(animals), len(destination))
 ```
-
+ 
 Accumulator
 -------------
 ```python
