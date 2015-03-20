@@ -9,3 +9,4 @@ while (i < 5):
 
 for i in my_strings:
 	print(i.upper())
+	
