@@ -16,3 +16,4 @@ elif height == 29029 :
 
 else :
 	print "Height does not match that of the first three highest mountains. Please enter a correct height!!"
+ 
