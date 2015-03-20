@@ -3,3 +3,5 @@ height = input("Enter 141ft or not: ")
 
 x = "small" if int(height) == 141 else "not small"
 print(x)
+ 
+# :)
