@@ -5,3 +5,4 @@ print ((myString.replace("FirstName", "Yu")).replace("LastName","Zhou"))
 new_list = myString.split(" ")
 for words in new_list:
 	print(words.lower())
+
