@@ -1,3 +1,5 @@
+#Lab6: Files & functions
+#Yu Zhou
 
 def rating(completions, attempts, yards, touchdowns, interceptions):
     C = (completions / attempts - 0.30) * 5
