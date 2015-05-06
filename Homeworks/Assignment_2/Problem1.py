@@ -6,4 +6,4 @@ i =  float(input("Enter i (Annual interest rate in decimal): "))
 
 #FV = PV * ((1+i)**n)
 FV = PV * pow(1+i,n)
-print "The future value of your investment will be" , int(FV) , "in cash"
+print "The future value of your investment will be" , int(FV) , "in cash" 
