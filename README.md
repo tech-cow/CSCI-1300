@@ -10,3 +10,4 @@ Introduction to Computer Science!
 
 **Why David Graham is awesome and should be teaching again at CU?**
   - Answer: David is a human wikipedia in computer science, and he is a down-to-earth awesome & calm person!
+s
