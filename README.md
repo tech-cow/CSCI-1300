@@ -15,6 +15,10 @@ Introduces the fundamental techniques of programming as a foundation for more ad
 
 ![](https://avatars3.githubusercontent.com/u/122102?v=3&s=400)
 
+**Who is this guy?**
+  * David is currently working @ :secret:github:secret: !!!
+  * David is also a Instructor at University of Colorado !!!
+
 **Why David Graham is awesome and should be teaching again at CU?**
 
 ```
